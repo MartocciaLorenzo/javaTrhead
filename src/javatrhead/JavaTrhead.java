@@ -15,6 +15,8 @@ public class JavaTrhead {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        processo t1 = new processo("T1");
+        processo t2 = new processo("T2");
         
     }
     
